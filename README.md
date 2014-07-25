@@ -1,7 +1,7 @@
 Clock Work
 ==========
 
-by [Anna Valkov] (www.github.com/aavalkov) and [Nuatu Tseggai] (www.github.com/nuatu)
+by [Anna Valkov] (https://github.com/aavalkov) and [Nuatu Tseggai] (https://github.com/nuatu)
 
 July 25th, 2014
 
